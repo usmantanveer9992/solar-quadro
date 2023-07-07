@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.banner .image{
+    background-image: url('../Images/solar\ image\ 2\ 1\ \(1\).png');
+ ;
+}
+.banner h6{
+    text-align: center;
+    padding-top: 500px;
+    color: #fff;
+}
+.banner .overlay{
+     
+    width: 70%;
+    height: 202px;
+    margin: auto;
+    background:rgba(8, 7, 7, 0.3) ;
+    border-radius: 10px;
+}
+ 
+.banner h1{
+     
+    text-align: center;
+    color: #fff;
+    padding: 33px 0px 110px;
+}
+.banner .empty1{
+    padding-top: 83px
+
+}
+.container .caption{
+    margin: auto;
+    
+}
+.caption .heading{
+    margin: 191px 0px 71px;
+    font-weight: 700;
+}
+.pic{
+    margin-top: 150px;
+}
+.btn{
+    background-color: #FF9900;
+    width: 60px;
+    height: 60px;
+    border-radius: 31px;
+    border: 3px solid black;
+}
+/* .btn img{
+    margin-top: 2px;
+    margin-right: 3px;
+} */
+.icons{
+    margin-top: 200px;
+    background-image: url('../Images/Rectangle\ 259.png');
+}
+.icons .box{
+    height: 220px;
+    text-align: center;
+     
+}
+.speaks{ 
+    color: #1F403A;
+}
+.empty{
+    height: 200px;
+}
+.play{
+    background-color: #FF9900;
+    color: #fff;
+    border: none;
+    height: 43px;
+    width: 183px;
+    font-size: 21px;
+    font-weight: 700;
+    margin-top: 60px;
+    margin-left: 555px;
+    font-size: 16px;
+}
+.treten h2{
+    font-size: 50px;
+    margin-top: 126px;
+    color: #1F403A;   
+}
+.treten span{
+    font-size: 27px;
+    color: #1F403A;
+     
+}
+.boxes .box{
+    background-color:#1F403A ;
+    height: 180px;
+    width: 180px;    
+    
+}
+.boxes img{
+    margin: 33px 0px 0px 30px;
+}
+.boxes h3{
+    color: #fff;
+    font-size: 16px;
+    margin: 20px 0px 0px 39px;
+}
+.border-text{
+    border: 1px solid gray;
+    height: 50px;
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    
+}
+.form input{
+    /* margin-bottom: 500px; */
+    border: 0;
+    border-bottom: 1px solid black;
+    width: 270px;
+    outline: none;
+}
+
+.form2 input{
+    border: 0;
+    border-bottom: 1px solid black;
+        
+    outline: none;
+    }
+.form3 input{
+    outline: none;
+    width: 600px;
+    margin-left: 343px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-bottom: 400px;
+
+}
+
